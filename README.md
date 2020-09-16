@@ -8,8 +8,8 @@
 
 Для проверки сайта на Heroku:
 
-https://still-escarpment-90121.herokuapp.com
+ https://limitless-spire-84157.herokuapp.com/
 
-https://still-escarpment-90121.herokuapp.com/success
+ https://limitless-spire-84157.herokuapp.com/success
 
-https://still-escarpment-90121.herokuapp.com/fail
+ https://limitless-spire-84157.herokuapp.com/fail
