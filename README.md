@@ -8,7 +8,7 @@
 
 Для проверки сайта на Heroku:
 
- https://limitless-spire-84157.herokuapp.com/
+
 
  https://limitless-spire-84157.herokuapp.com/success
 
